@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Xiaotian Wang's Resume
 
-You can use the [editor on GitHub](https://github.com/wang-xiaotian/wang-xiaotian/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It is coming !!!
+The following is just a template 
 
 ### Markdown
 
